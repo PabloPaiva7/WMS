@@ -42,9 +42,4 @@ Informações exibidas:
 - **Streamlit**: Para a interface do usuário
 - **Datetime**: Para registro de data e hora das movimentações
 
----
 
-## ✅ Como Executar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
